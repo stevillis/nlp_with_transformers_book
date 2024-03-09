@@ -1,4 +1,6 @@
-black==24.2.0
+accelerate==0.27.2
+black==24.2.
+datasets==2.18.0
 ipykernel==6.29.3
 ipywidgets==8.1.2
 isort==5.13.2
@@ -9,3 +11,4 @@ sacremoses==0.1.1
 sentencepiece==0.2.0
 tensorflow==2.15.0
 transformers==4.38.2
+umap-learn==0.5.5
